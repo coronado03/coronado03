@@ -11,5 +11,4 @@ Current Tech Stack: MERN STACK
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/coronado03/coronado03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sebasti%C3%A1n-coronado-003180217//)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/coronado03/coronado03)  
 
