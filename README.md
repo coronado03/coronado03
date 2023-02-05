@@ -2,7 +2,6 @@
 #### I am a passionate coder who likes to spend his time learning
 I am currently a 18 year old developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, mobile development or game development
 
-Current Tech Stack: MERN STACK
 
 - 🔭 I’m currently working on having better design skills 
 - 🌱 I’m currently practicing algorithms 
