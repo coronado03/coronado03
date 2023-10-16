@@ -3,7 +3,7 @@
 Developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, mobile development or game development
 
 
-- 🔭 I’m currently working on having better design skills 
+- 🔭 Currently documenting my Leetcode journey in one of my repositories!
 - 🌱 I’m currently practicing algorithms 
 - 📫 How to reach me: Through my portfolio website and Linkedin 
 
