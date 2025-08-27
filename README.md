@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Sebastian
-#### I am a passionate coder who likes to spend his time learning (I use vim btw)
+#### I like CS (I use vim btw)
 Developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, mobile development or game development
 
 
