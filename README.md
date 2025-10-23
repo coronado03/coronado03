@@ -3,7 +3,7 @@
 Developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, mobile development or game development
 
 
-- 🔭 Currently delving into self hosting and fundamentals!
+- 🔭 Currently delving into self hosting and sharpening fundamentals!
 - 🌱 I’m currently reading: Networking: A Top down Approach and Effective Typescript
 - 📫 How to reach me: Mostly Linkedin 
 
