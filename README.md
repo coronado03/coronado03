@@ -1,10 +1,10 @@
 ### Hi there 👋, i'm Sebastian
 #### I like CS (arch and vim btw)
-Developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, mobile development or game development
+Developer who likes to mess around with different types of technologies and different branches of coding. Be it Web development, Embedded or game development
 
 
-- 🔭 Currently delving into self hosting and sharpening fundamentals!
-- 🌱 I’m currently reading: Networking: A Top down Approach and Effective Typescript
+- 🔭 Currently delving into compiler theory!
+- 🌱 I’m currently reading: Networking: A Top down Approach and SICP
 - 📫 How to reach me: Mostly Linkedin 
 
 
